@@ -1,4 +1,4 @@
-As completing my graduaton with a background in Electronics and Communication Engineering from Gokaraju rangaraju institute of engineering and technology, I possess a strong passion for software engineering, coupled with a diverse skill set that includes proficiency in Python, C, C++, web development, data structures and algorithms, SQL and database management, machine learning, and cloud computing.
+As completing my graduation with a background in Electronics and Communication Engineering from Gokaraju rangaraju institute of engineering and technology, I possess a strong passion for software engineering, coupled with a diverse skill set that includes proficiency in Python, C, C++, web development, data structures and algorithms, SQL and database management, machine learning, and cloud computing.
 
 Throughout my academic journey, I actively engaged in projects that allowed me to develop hands-on experience in machine learning.
 
